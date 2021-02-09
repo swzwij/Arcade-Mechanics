@@ -1,4 +1,4 @@
 # Arcade-Mechanics
-## Joost Robat
+### Joost Robat
 ### Guido vd Kort
-#### Samuel Zwijsen
+### Samuel Zwijsen
