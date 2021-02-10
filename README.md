@@ -5,7 +5,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<p>
   <summary><h2 style="display: inline-block">Index</h2></summary>
   <ol>
     <li>
@@ -21,7 +21,7 @@
       </ul>
     </li>
   </ol>
-</details>
+</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
