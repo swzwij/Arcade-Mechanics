@@ -15,6 +15,9 @@
       </ul>
     </li>
     <li>
+      <a href="#trello">Trello</a>
+    </li>
+    <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
@@ -32,6 +35,11 @@ Hier komt informatie over het project
 ### Built With
 
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
+<!-- Trello link -->
+## Trello Board
+
+* [Trello](https://trello.com/b/mkGiRIqI/arcade-mechanics)
 
 
 <!-- GETTING STARTED -->
