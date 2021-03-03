@@ -1,0 +1,6 @@
+Stone_Texture_1/2/3/4
+
+Main: #b8b8b8
+Outer : #4d4d4d
+lighter Shadow: #c7c7c7
+Darker Shadow: #858585
