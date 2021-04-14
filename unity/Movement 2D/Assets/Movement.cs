@@ -12,6 +12,7 @@ public class Movement : MonoBehaviour
     public float maxSprint = 18f;
     public float jumpDelay = 1.5f;
     public int getal = 10;
+    public Animator animator1;
 
 
     private float timer = 0.0f;
@@ -46,12 +47,14 @@ public class Movement : MonoBehaviour
         {
             //rb.velocity = new Vector2(speed, 0);
             rb.AddForce(new Vector2(speed, 0));
+            animator1.SetFloat("speed", speed);
         }
 
         if (Input.GetKey(KeyCode.A))
         {
             //rb.velocity = new Vector2(-speed, 0);
             rb.AddForce(new Vector2(-speed, 0));
+            animator1.SetFloat("speed", speed);
         }
 
         /*if (Input.GetKey(KeyCode.A) && Input.GetKey(KeyCode.D))

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Guido_animations
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 9712fd610c5c51e48854771b83019340, type: 3}
+    - {fileID: 21300000, guid: f7338c975e1f9be4a9574de908813670, type: 3}
+    - {fileID: 21300000, guid: c6fb70a59d5549245a4d87b3c7dfca7e, type: 3}
+    - {fileID: 21300000, guid: 519cf65767c34bb498bd691d454657fe, type: 3}
+    - {fileID: 21300000, guid: 15a1b94c5bd0da343a864bcfb02cf924, type: 3}
+    - {fileID: 21300000, guid: 5a0173ac325978647894911f6bf6a40c, type: 3}
+    - {fileID: 21300000, guid: c6f3ddf6cac6ad543a213cac223285b4, type: 3}
+    - {fileID: 21300000, guid: b117c9155c92ea74e8e22a7a2563f7e6, type: 3}
+    - {fileID: 21300000, guid: 656127ef2dbe8dd44a3a3d895926a075, type: 3}
+    - {fileID: 21300000, guid: c671001480f7407408cc3703d0d88e85, type: 3}
+    - {fileID: 21300000, guid: 02e2fa6a1d9603a46b19b0d6e236bd11, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9712fd610c5c51e48854771b83019340, type: 3}
+  - {fileID: 21300000, guid: c671001480f7407408cc3703d0d88e85, type: 3}
+  - {fileID: 21300000, guid: b117c9155c92ea74e8e22a7a2563f7e6, type: 3}
+  - {fileID: 21300000, guid: c6fb70a59d5549245a4d87b3c7dfca7e, type: 3}
+  - {fileID: 21300000, guid: c6f3ddf6cac6ad543a213cac223285b4, type: 3}
+  - {fileID: 21300000, guid: 519cf65767c34bb498bd691d454657fe, type: 3}
+  - {fileID: 21300000, guid: f7338c975e1f9be4a9574de908813670, type: 3}
+  - {fileID: 21300000, guid: 02e2fa6a1d9603a46b19b0d6e236bd11, type: 3}
+  - {fileID: 21300000, guid: 15a1b94c5bd0da343a864bcfb02cf924, type: 3}
+  - {fileID: 21300000, guid: 5a0173ac325978647894911f6bf6a40c, type: 3}
+  - {fileID: 21300000, guid: 656127ef2dbe8dd44a3a3d895926a075, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Walk_0
+  - Walk_15
+  - Walk_13
+  - Walk_4
+  - Walk_10
+  - Walk_7
+  - Walk_3
+  - Walk_17
+  - Walk_8
+  - Walk_9
+  - Walk_14
+  m_Tag: Guido_animations
+  m_IsVariant: 0

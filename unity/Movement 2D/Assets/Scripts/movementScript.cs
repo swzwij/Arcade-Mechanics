@@ -8,6 +8,7 @@ public class movementScript : MonoBehaviour
     public float maxSpeed = 3.4f;
     public float jumpHeight = 6.5f;
     public float gravityScale = 1.5f;
+    public Animator animator1;
     //public Camera mainCamera;
     //public Transform player;
     //public Vector3 offset;
@@ -51,6 +52,22 @@ public class movementScript : MonoBehaviour
             {
                 moveDirection = 0;
             }
+        }
+        if(Input.GetKey(KeyCode.A))
+        {
+            animator1.SetFloat("speed1", -10);
+        }
+        else
+        {
+            animator1.SetFloat("speed1", -0);
+        }
+        if (Input.GetKey(KeyCode.D))
+        {
+            animator1.SetFloat("speed", 10);
+        }
+        else
+        {
+            animator1.SetFloat("speed", 0);
         }
 
         // Change facing direction
